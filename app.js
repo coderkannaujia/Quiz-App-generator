@@ -29,7 +29,25 @@ const quizData = [{
   c: "Jason Object Notation",
   d: "Helicopters Terminals Motorboats Lamborginis",
   correct: "b",
+},
+{
+  question: "Who developed java?",
+  a: "james Gosling",
+  b: "Guido van Rossum",
+  c: "Brendan Eich ",
+  d: "Dennis M.Ritchie",
+  correct: "a",
+},
+
+{
+  question: "'OS' computer abbreviation usually means?",
+  a: "Order of Significance",
+  b: "Open Software",
+  c:  "Operating System",
+  d: "Optical Sensor",
+  correct:  "c"
 }
+
 ];
 let index = 0;
 let correct = 0,
